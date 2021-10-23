@@ -4,4 +4,4 @@
 const foo = 1, bar = 3;
 const sumTotal = foo + bar;
 console.log(sumTotal);
-
+// Comment for test.
